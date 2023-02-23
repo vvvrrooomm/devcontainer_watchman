@@ -1,20 +1,20 @@
 
-# watchman for sorbet
-adds watchman to devcontainer. To be used with sorbet
+# watchman (watchman)
+
+Installs watchman needed dependencies.
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-watchman/watchman:1": {
-        "version": "latest"
-    }
+    "ghcr.io/vvvrrooomm/watchman/watchman:1": {}
 }
 ```
 
-## Options
 
-None
+
 
 
 ---
+
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/vvvrrooomm/watchman/blob/main/src/watchman/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
